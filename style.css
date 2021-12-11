@@ -12,3 +12,20 @@ body{
     font-size: 25px;
 }
 
+h3{
+    color: indigo;
+}
+
+span{
+    color: firebrick;
+}
+
+h4{
+    font-size: 25px;
+}
+
+#footer{
+    color: yellow;
+    background-color:darkblue;
+}
+
